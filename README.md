@@ -29,8 +29,9 @@ A fully functional **console-based e-commerce platform** built using **Java**, *
 - IntelliJ IDEA (IDE)
 - Git & GitHub (Version control)
 
+---
 
-👤 Author
+##👤 Author
 V S Krishai
 B.Tech Information Technology
 KPR Institute of Engineering and Technology
@@ -56,5 +57,5 @@ src/
 │   ├── CartItem.java
 │   └── Category.java
 ├── EcommerceMAIN/
-│   └── Ecommerce2ndMain.java
+│   └── EcommerceMain.java
 
