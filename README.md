@@ -31,7 +31,7 @@ A fully functional **console-based e-commerce platform** built using **Java**, *
 
 ---
 
-##👤 Author
+Author : 
 V S Krishai
 B.Tech Information Technology
 KPR Institute of Engineering and Technology
